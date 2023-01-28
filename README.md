@@ -1,9 +1,18 @@
-# PREVIEW
+</details>
+<details>
+    <summary><b> UPDATE 28/01/2023 </b></summary><br/>
 
-![72A4BDA9-7CA8-47FF-A499-A7B5B5DC37A8](https://user-images.githubusercontent.com/115182304/213897506-f639b8be-36d6-4e4d-8292-a3cfa63a6acb.jpeg)
+![IMG_20230128_212429_1](https://user-images.githubusercontent.com/115182304/215271899-d12f6792-2a6a-4d7e-abd4-e7bb3d67452b.jpg)
 
-no selenium selenium shit
+</p>
+</details>
 
-# contact me 
+</details>
+<details>
+    <summary><b> CONTACT ME </b></summary><br/>
 
-https://t.me/agathasangkara
+ <a href="https://www.facebook.com/profile.php?id=100086675272346"> Facebook</a> OR
+ <a href="https://t.me/agathasangkata"> Telegram</a>
+
+</p>
+</details>
